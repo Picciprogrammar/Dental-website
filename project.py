@@ -1,1 +1,2 @@
 print('moon')
+print('m')
